@@ -41,11 +41,11 @@ Script Python para instalar ou remover o **Cockpit**, ferramenta de administraç
    ```
 2. Torne o script executável:
    ```bash
-   chmod +x cockpit-setup-manager.py
+   chmod +x cockpit_setup_manager.py
    ```
 3. Execute como root/sudo:
    ```bash
-   sudo ./cockpit-setup-manager.py
+   sudo ./cockpit_setup_manager.py
       ```
 
 Siga as instruções para:
