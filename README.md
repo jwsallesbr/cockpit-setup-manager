@@ -48,19 +48,19 @@ Script Python para instalar ou remover o **Cockpit**, ferramenta de administraç
    sudo ./cockpit_setup_manager.py
       ```
 
-Siga as instruções para:
+## Siga as instruções para:
 
-   Instalar
+   ## ⚙️Instalar
    <img src="install.png">
 
-   Ativar
+   ## ✅Ativar
    <img src="activate.png">
 
-   Remover
+   ## ❌Remover
    <img src="remove.png">
    
 
-🌐 Após a instalação, o serviço será ativado e a interface poderá ser acessada via web:
+## 🌐 Após a instalação, o serviço será ativado e a interface poderá ser acessada via web:
 ```
 https://<IP-DO-SERVIDOR>:9090
 ```
